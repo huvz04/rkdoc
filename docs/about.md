@@ -1,23 +1,18 @@
 ---
 outline: deep
 ---
+# 内网站点
+
+|     名称       | url |  备注    |
+| :----:|:----:| :----:|
+|内网文档|http://172.16.1.2||
+|内网测速站|http://172.16.1.2:5000||
 
 # 友情链接
 
-工作室网站及实用网站整理
+实用网站整理
 |     名称       | url |  备注    |
 | :----:|:----:| :----:|
 |党建测试服|http://10.2.51.186:8092||
 |ip属地|http://ip.skk.moe||
-### Theme Data
-<pre>{{ theme }}</pre>
 
-### Page Data
-<pre>{{ page }}</pre>
-
-### Page Frontmatter
-<pre>{{ frontmatter }}</pre>
-
-## More
-
-Check out the documentation for the [full list of runtime APIs](https://vitepress.dev/reference/runtime-api#usedata).

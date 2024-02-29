@@ -17,11 +17,12 @@ export default defineConfig({
       {
         text: "快速开始",
         items: [
+          { text: "传送门", link: "/about" },
           {
-            text: "用户文档",
+            text: "叨叨念",
             link: about,
           },
-          { text: "友情链接", link: "/about" },
+          
         ],
       },
     ],
