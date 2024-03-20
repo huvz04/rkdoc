@@ -3,7 +3,6 @@
 
 ::: tip 小提示
 :warning:如果您只是想使用 `Wifi` /`网口` 那么不需要查看此文档<br>
-:warning:由于没有转发UDP和ICMP。 所以DEV的游戏和ping指令都不会太好使
 :::
 ##  :radio: WIFI
 
